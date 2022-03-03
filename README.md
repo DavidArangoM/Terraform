@@ -1,2 +1,2 @@
 # Terraform
-This respository contains differents templates to use Terraform scripts
+This respository contains different templates to use Terraform scripts
